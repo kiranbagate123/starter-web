@@ -2,8 +2,7 @@
 
 This is a simple github project to show how to use git and github
 ## Introduction
-This repository is for showing how Git and GitHub work
-
+This is example is to show different parts of the Git repository and various command using a web project 
 ## Purpose
 
 Sample website with plenty of files for demos
