@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+This is a simple github project to show how to use git and github
 ## Introduction
 This repository is for showing how Git and GitHub work
 
