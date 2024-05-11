@@ -5,8 +5,10 @@ This is a simple github project to show how to use git and github
 This is example is to show different parts of the Git repository and various command using a web project 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above , the man purpose is to provie simple example
 
 ## Deployement
+This is a somple web project , deployement can be on any web server or even local file system.
+
 
 ## How to contribute
