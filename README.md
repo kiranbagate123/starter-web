@@ -12,3 +12,7 @@ This is a somple web project , deployement can be on any web server or even loca
 
 
 ## How to contribute
+
+###COpyright 
+
+2014 Git.Trainig
