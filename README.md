@@ -12,6 +12,7 @@ This is a somple web project , deployement can be on any web server or even loca
 
 
 ## How to contribute
+Please fork this repo and then issue Pull Requests for review.
 
 ###COpyright 
 
