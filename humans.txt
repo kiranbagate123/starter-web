@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kiran Bagate kiransbagate@gmail.com
 
 # THANKS
 
