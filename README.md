@@ -17,4 +17,4 @@ Please fork this repo and then issue Pull Requests for review.
 
 ###COpyright 
 
-2014 Git.Trainig
+2014 Git.Trainig. All rights reserved.
